@@ -15,4 +15,4 @@ elif Calculation=="*":
 elif Calculation=="/":
     print("Division = ", Number_1/Number_2)
 else:
-    print("Invalid operator ❌")
+    print("Invalid operator ❌, Enter the valid operator")
